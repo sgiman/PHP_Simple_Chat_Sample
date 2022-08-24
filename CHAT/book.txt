@@ -1,0 +1,13 @@
+<span class="date-mess">sgiman | 15-07-2020 02:54:47 </span><br> <span class='message'>ЭТО TECT!!!
+This is test!</span>
+<span class="date-mess">nobody | 15-07-2020 02:56:07 </span><br> <span class='message'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas libero erat, egestas ac dictum et, porta eu felis. Donec placerat interdum mollis.</span>
+<span class="date-mess">sgiman | 15-07-2020 02:56:34 </span><br> <span class='message'>Praesent in lacus eu nibh fringilla dictum sed ac orci. 
+Vivamus lobortis fermentum ante, eu condimentum nulla tincidunt sit amet. Duis auctor sodales bibendum. Vivamus at aliquet mauris.
+</span>
+<span class="date-mess">Sergey | 15-07-2020 02:57:25 </span><br> <span class='message'>Одна строка в сообщении.</span>
+<span class="date-mess">sman | 15-07-2020 02:58:05 </span><br> <span class='message'>Hello world!</span>
+<span class="date-mess">Admin | 15-07-2020 02:58:41 </span><br> <span class='message'>Конец тестирования </span>
+<span class="date-mess">super-admin | 15-07-2020 03:00:25 </span><br> <span class='message'>Финал теcтирования простейшего чата без Date Base. </span>
+<span class="date-mess">super-admin | 15-07-2020 03:01:28 </span><br> <span class='message'>Тестироваcя только текстовый файл сообщений - book.txt </span>
+<span class="date-mess">super-admin | 15-07-2020 03:13:51 </span><br> <span class='message'>Чат модифицирован.... </span>
+<span class="date-mess">Admin | 15-07-2020 03:14:49 </span><br> <span class='message'>Тестирование прошло успешно !</span>
